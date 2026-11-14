@@ -22,7 +22,7 @@ Enter pollutant readings to obtain an estimated AQI value using a trained regres
 
 ### 3. AQI Classification
 Predict the air quality category using a machine learning classification model.
-
+ 
 ### 4. City Clustering
 Explore pollution patterns by grouping cities using K-Means clustering.
 
